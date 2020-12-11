@@ -1,1 +1,2 @@
 
+chmod r-- code.py
