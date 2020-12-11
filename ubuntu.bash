@@ -1,2 +1,2 @@
 
-chmod r-- code.py
+chmod r++ code.py
