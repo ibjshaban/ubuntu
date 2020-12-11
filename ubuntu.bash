@@ -1,1 +1,1 @@
-chmod +rwx code.py
+sudo chmod 667 code.py
